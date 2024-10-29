@@ -8,11 +8,11 @@
 
 - [Demo Project](https://mehdiarang.github.io/p2/)
 
-- Developed by pouria farahani
+- Developed by Mehdi Arang
 
-- Created - 2022-11-26
+- Created - 2024-10-29
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
