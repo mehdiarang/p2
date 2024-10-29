@@ -18,4 +18,5 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/arangfront/profilecard/?igsh=MWNyeTUwaDJuYjY4Mw==") and [linkedin](www.linkedin.com/in/
+mehdi-arang-b0a66732b)
